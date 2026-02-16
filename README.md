@@ -11,7 +11,7 @@ A Spring Boot application to manage and query JSON dataset records with group-by
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SupreethRagavendra/json-query-api.git
    cd dataset-api
    ```
 2. **Build the project:**
