@@ -26,8 +26,6 @@ The application runs on `http://localhost:8080`.
 
 ## API Endpoints
 
-![API Testing Screenshot](assets/screenshot.png)
-
 ### 1. Insert Record API
 Insert a single JSON record into a specific dataset.
 
@@ -100,11 +98,10 @@ Enables inserting multiple records in a single request.
 - Spring Data JPA
 - Lombok
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a18f70cf-1537-49fb-906e-df968385d9b6" 
-   />
+## Testing Preview
+![API Testing Screenshot](assets/screenshot.png)
 
-
-
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/070fd698-a107-45e3-9c31-a6a2d891e26a" />
+<img width="1920" alt="Postman Request Example" src="https://github.com/user-attachments/assets/a18f70cf-1537-49fb-906e-df968385d9b6" />
+<img width="1920" alt="Browser Query Example" src="https://github.com/user-attachments/assets/070fd698-a107-45e3-9c31-a6a2d891e26a" />
 
 
