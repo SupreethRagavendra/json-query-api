@@ -97,3 +97,12 @@ Enables inserting multiple records in a single request.
 - H2 Database (In-memory)
 - Spring Data JPA
 - Lombok
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a18f70cf-1537-49fb-906e-df968385d9b6" 
+   />
+
+
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/070fd698-a107-45e3-9c31-a6a2d891e26a" />
+
+
