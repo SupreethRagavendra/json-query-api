@@ -102,6 +102,8 @@ Enables inserting multiple records in a single request.
 
 
 <img width="1920" alt="Postman Request Example" src="https://github.com/user-attachments/assets/a18f70cf-1537-49fb-906e-df968385d9b6" />
+
+<br>
 <img width="1920" alt="Browser Query Example" src="https://github.com/user-attachments/assets/070fd698-a107-45e3-9c31-a6a2d891e26a" />
 
 
