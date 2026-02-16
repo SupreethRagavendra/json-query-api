@@ -26,6 +26,8 @@ The application runs on `http://localhost:8080`.
 
 ## API Endpoints
 
+![API Testing Screenshot](assets/screenshot.png)
+
 ### 1. Insert Record API
 Insert a single JSON record into a specific dataset.
 
