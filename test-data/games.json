@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "The Witcher 3",
+        "genre": "RPG",
+        "rating": 9.8,
+        "releaseYear": 2015
+    },
+    {
+        "id": 2,
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "rating": 9.6,
+        "releaseYear": 2022
+    },
+    {
+        "id": 3,
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "rating": 9.0,
+        "releaseYear": 2011
+    },
+    {
+        "id": 4,
+        "title": "FIFA 23",
+        "genre": "Sports",
+        "rating": 7.5,
+        "releaseYear": 2022
+    },
+    {
+        "id": 5,
+        "title": "God of War",
+        "genre": "Action",
+        "rating": 9.7,
+        "releaseYear": 2018
+    }
+]

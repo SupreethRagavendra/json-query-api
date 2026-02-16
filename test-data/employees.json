@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "John Doe", "age": 30, "department": "Engineering", "salary": 75000 },
+  { "id": 2, "name": "Jane Smith", "age": 25, "department": "Engineering", "salary": 82000 },
+  { "id": 3, "name": "Alice Brown", "age": 28, "department": "Marketing", "salary": 60000 },
+  { "id": 4, "name": "Bob Wilson", "age": 35, "department": "Marketing", "salary": 95000 },
+  { "id": 5, "name": "Charlie Davis", "age": 22, "department": "Sales", "salary": 50000 }
+]
