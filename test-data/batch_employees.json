@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 25,
+        "department": "Engineering",
+        "salary": 82000
+    },
+    {
+        "id": 3,
+        "name": "Alice Brown",
+        "age": 28,
+        "department": "Marketing",
+        "salary": 60000
+    },
+    {
+        "id": 4,
+        "name": "Bob Wilson",
+        "age": 35,
+        "department": "Marketing",
+        "salary": 95000
+    }
+]
